@@ -1,5 +1,4 @@
-# Heyoo, everyone welcome to my git guide
+# Header
 
-- Yo everyone this is the second `shealtielanzz`
 - I'm adding this from feature-branch
 
